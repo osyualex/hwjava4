@@ -13,7 +13,7 @@ class ManagerTest {
         Book book1 = new Book(1, "Гарри Поттер1", 100, "Роллинг");
         Book book2 = new Book(2, "Война и мир", 100, "Толстой");
         Book book3 = new Book(3, "Гарри Поттер1", 100, "Роллинг");
-        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Appel");
+        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Apple");
 
         manager.add(book1);
         manager.add(book2);
@@ -33,8 +33,8 @@ class ManagerTest {
         Book book1 = new Book(1, "Гарри Поттер1", 100, "Роллинг");
         Book book2 = new Book(2, "Война и мир", 100, "Толстой");
         Book book3 = new Book(3, "Гарри Поттер1", 100, "Роллинг");
-        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Appel");
-        Smartphone smartphone2 = new Smartphone(2, "Iphone10", 10, "Appel");
+        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Apple");
+        Smartphone smartphone2 = new Smartphone(2, "Iphone10", 10, "Apple");
 
 
         manager.add(book1);
@@ -55,8 +55,8 @@ class ManagerTest {
         Book book1 = new Book(1, "Гарри Поттер1", 100, "Роллинг");
         Book book2 = new Book(2, "Война и мир", 100, "Толстой");
         Book book3 = new Book(3, "Гарри Поттер1", 100, "Роллинг");
-        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Appel");
-        Smartphone smartphone2 = new Smartphone(2, "Iphone10", 10, "Appel");
+        Smartphone smartphone1 = new Smartphone(1, "Iphone14", 1000, "Apple");
+        Smartphone smartphone2 = new Smartphone(2, "Iphone10", 10, "Apple");
 
 
         manager.add(book1);
